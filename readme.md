@@ -4,7 +4,7 @@ This project is a simple full-stack application for "Home Assignment 1 - Basic T
 
 ## Screenshot
 
-![UI Screenshot](./assets/image.png)
+![UI Screenshot](./assets/ui.png)
 
 ## Technologies Used
 
