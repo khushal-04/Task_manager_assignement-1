@@ -60,4 +60,4 @@ The backend provides the following RESTful API endpoints, as defined in `TasksCo
     ```sh
     npm run dev
     ```
-    The application will be available at `http://localhost:5161` (or a similar port specified by Vite).
+    The application will be available at `http://localhost:5173` (or a similar port specified by Vite).
