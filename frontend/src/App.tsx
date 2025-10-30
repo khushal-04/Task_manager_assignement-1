@@ -103,7 +103,6 @@ function App() {
         <div className="bg-white rounded-lg shadow-xl overflow-hidden">
           <div className="bg-gradient-to-r from-blue-600 to-indigo-600 px-6 py-8">
             <h1 className="text-3xl font-bold text-white mb-2">Task Manager</h1>
-            <p className="text-blue-100">Full-stack application with .NET 8 & React</p>
           </div>
 
           {error && (
